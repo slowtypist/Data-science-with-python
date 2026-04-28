@@ -7,7 +7,7 @@ while True:
     if num == guess:
         tries += 1
         print("you win")
-        print(f"no of tries: {tries}")class
+        print(f"no of tries: {tries}")
         break
     else: 
         tries += 1
