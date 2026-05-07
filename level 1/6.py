@@ -1,0 +1,2 @@
+country = "india"
+print(country)
